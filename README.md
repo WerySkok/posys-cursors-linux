@@ -1,2 +1,5 @@
-# posys-cursors-linux
-Posy's improved cursors (ONLY 100% SCALE)
+# Posy's improved cursors
+
+Only 100% scale cursors made (32x32 cursors).
+
+Ported from this: http://www.michieldb.nl/other/cursors/
